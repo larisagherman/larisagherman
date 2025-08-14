@@ -1,7 +1,7 @@
 ## Hi, I'm Larisa 
 
-    🧠 Computer Science Student at The Polytechnic University of Timisoara. <br/>
-    👩🏼‍🎨 I love designing websites and bringing them to life through development. <br/>
+    🧠 Computer Science Student at The Polytechnic University of Timisoara.<br/>
+    👩🏼‍🎨 I love designing websites and bringing them to life through development.<br/>
 
 
 # 💻 Tech Stack:
